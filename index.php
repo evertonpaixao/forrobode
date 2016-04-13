@@ -1,4 +1,4 @@
-<?php /* include */ include("incs/includes.php"); $Pagina = 'Home'; ?>
+<?php /* include */ include("incs/includes.php"); $Pagina = ''; ?>
 <!DOCTYPE HTML>
 
 <html class="no-js" lang="pt-br">
